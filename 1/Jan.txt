@@ -1,0 +1,28 @@
+Witaj świecie
+Witaj, Jan
+Równe
+Numeber: 1
+Numeber: 2
+Numeber: 3
+Numeber: 4
+Numeber: 5
+licz: 1
+licz: 2
+licz: 3
+licz: 4
+licz: 5
+Witaj, Jan
+Witaj świecie
+Witaj, Jan
+Równe
+Numeber: 1
+Numeber: 2
+Numeber: 3
+Numeber: 4
+Numeber: 5
+licz: 1
+licz: 2
+licz: 3
+licz: 4
+licz: 5
+Witaj, Jan
